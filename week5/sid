@@ -6,3 +6,6 @@ I also learned how VLAN tagging works and how switches manage traffic between VL
 In the second task, I configured inter-VLAN routing using a Linux router with sub-interfaces. 
 This showed how communication between VLANs is achieved.
 The key takeaway was how VLANs improve network organisation, security, and efficiency.
+I initially struggled with understanding trunk vs access ports, but testing configurations helped clarify the difference.
+Next time, I will diagram the network before configuring VLANs to avoid confusion.
+VLANs are widely used in organisations to separate departments securely, making this knowledge highly practical.
