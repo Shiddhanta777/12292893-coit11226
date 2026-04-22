@@ -1,1 +1,8 @@
+Week 05 Reflection
 
+This week introduced VLANs and network segmentation. 
+I configured VLANs on an OpenvSwitch to separate hosts into different broadcast domains.
+I also learned how VLAN tagging works and how switches manage traffic between VLANs.
+In the second task, I configured inter-VLAN routing using a Linux router with sub-interfaces. 
+This showed how communication between VLANs is achieved.
+The key takeaway was how VLANs improve network organisation, security, and efficiency.
