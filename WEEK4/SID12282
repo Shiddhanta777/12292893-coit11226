@@ -1,8 +1,8 @@
-Week 04 Reflection
-
-This week focused on routing concepts, 
-including viewing routing tables and enabling packet forwarding. 
-I built a network with multiple subnets and a router,
-configured IP addresses, and examined routing tables using ip route show.
-Additionally, I explored dynamic routing using OSPF and observed how routers automatically update paths when network changes occur. 
-Using tools like traceroute,I was able to visualise packet paths. This helped me understand how routing ensures communication across different networks.
+This week introduced routing concepts, which significantly expanded my understanding of how networks communicate beyond a single subnet.
+By configuring routing tables and enabling forwarding, I learned how routers act as intermediaries between networks.
+Working with OSPF demonstrated dynamic routing, where routes update automatically when network conditions change.
+Using traceroute, I could visualise the actual path packets take.
+A key insight was the difference between static and dynamic routing.
+I initially found routing tables confusing, especially identifying next-hop addresses.
+After repeated practice, I improved my ability to read and interpret routing entries.
+This concept is important in real-world networks where dynamic routing ensures reliability and fault tolerance.
