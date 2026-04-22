@@ -1,1 +1,7 @@
+Week 01 Reflection
 
+This week focused on setting up the foundation for the unit. I installed and configured essential tools like VirtualBox and GNS3,
+and created my GitHub repository for portfolio work. I learned how to create a basic GNS3 project,
+add a Linux host, and configure a static IP address using the /etc/network/interfaces file.
+I also practiced using Linux commands like ip address show to verify configurations.
+A key takeaway was understanding how networking configurations are applied before startup and how documentation using Markdown can improve clarity in GitHub.
